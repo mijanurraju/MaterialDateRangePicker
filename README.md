@@ -1,7 +1,3 @@
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MaterialDateRangePicker-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2501)
-
-[ ![Download](https://api.bintray.com/packages/borax12/maven/material-datetime-rangepicker/images/download.svg) ](https://bintray.com/borax12/maven/material-datetime-rangepicker/_latestVersion)
-
 Material Date and Time Picker with Range Selection
 ======================================================
 
@@ -23,12 +19,6 @@ dependencies {
 }
 
 ```
-
-
-##Update
---added highlighted range selection method
---added portuguese translation
---add end time selection in TimePicker
 
 ##Date Selection
 
@@ -108,7 +98,3 @@ tpd.show(getFragmentManager(), "Timepickerdialog");
 
 For other documentation regarding theming , handling orientation changes , and callbacks - check out the original documentation - https://github.com/wdullaer/MaterialDateTimePicker
 
-TODO
-----
-1. Custom Colors in Date and Time Picker - including indicators
-# MaterialDateRangePicker
