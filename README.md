@@ -4,22 +4,6 @@ Material Date and Time Picker with Range Selection
 
 Credit to the original amazing material date picker library by wdullaer - https://github.com/wdullaer/MaterialDateTimePicker
 
-##Adding to your project
-
-Add the jcenter repository information in your build.gradle file like this
-```java
-
-repositories {
-  jcenter()
-}
-
-
-dependencies {
-  compile 'com.raaju.materialdaterangepicker:library:1.9'
-}
-
-```
-
 ##Date Selection
 
 ![FROM](/screenshots/2.png?raw=true)
